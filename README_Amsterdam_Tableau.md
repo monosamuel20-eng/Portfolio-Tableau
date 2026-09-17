@@ -81,15 +81,7 @@ The dashboard includes a legend filter for room type (Entire home/apt · Hotel r
 
 ---
 
-## How to open
+## How to open Tableau Live Public Dashboard
 
-Open the `.twbx` packaged workbook in Tableau Desktop or Tableau Public. The map layer requires an active internet connection for Mapbox tile rendering.
-
----
-
-## Tableau Live Public Dashboard
-
-```
-https://public.tableau.com/app/profile/samuel.mono/viz/AmsterdamShort-TermRentalMarketForecastSupplyDynamics2026-2027/AmsterdamAirbnbDashboard?publish=yes
-```
+Open the https://public.tableau.com/app/profile/samuel.mono/viz/AmsterdamShort-TermRentalMarketForecastSupplyDynamics2026-2027/AmsterdamAirbnbDashboard?publish=yes packaged workbook in Tableau Public. The map layer requires an active internet connection for Mapbox tile rendering.
 
