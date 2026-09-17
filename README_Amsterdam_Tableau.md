@@ -87,10 +87,9 @@ Open the `.twbx` packaged workbook in Tableau Desktop or Tableau Public. The map
 
 ---
 
-## Files
+## Tableau Live Public Dashboard
 
 ```
-[Amsterdam_STR_Dashboard.twbx]   — Packaged Tableau workbook
+https://public.tableau.com/app/profile/samuel.mono/viz/AmsterdamShort-TermRentalMarketForecastSupplyDynamics2026-2027/AmsterdamAirbnbDashboard?publish=yes
 ```
 
-> A screenshot of the full dashboard is included in this repository for quick reference.
